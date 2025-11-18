@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi, I'm Kulsum ✨</h1>
-<h3 align="center">AI & Data Science student · Sri Lankan girl in tech · Based in KL</h3>
+<h1 align="center">Hi, I'm Kulsum </h1>
+<h3 align="center">AI & Data Science student · Self-Proclaimed Nerd <i>I try to be</i> · Based in KL</h3>
 
 <p align="center">
   <em>Turning maths, tea, and late-night debugging into tiny worlds, smart systems, and slightly over-engineered projects ✨</em>
@@ -9,16 +9,16 @@
 
 ### 🌸 About me
 
-- 🎓 BSc (Hons) Computer Science (Artificial Intelligence) @ APU ('27 Batch) 
-- 🤖 Curious about AI, data, and building things that actually feel *nice* to use  
-- 📚 One of the Developers of <strong>KiraKira</strong> (SPM Maths e-learning) and <strong>Lumi’s Adventure</strong> (a cozy 2D story-game)  
-- 🐱 Loves chubby cats, pretty sunsets, cute UIs, and well-commented code  
-- 🌱 Constantly learning and trying to be 1% better at math, code, and life every day. (It's Very hard given that my attention span is cooked and my screentime is basically a DAY! {i'm joking})
-- 🫖 I ALSO LOVE TEA *the drinking kind* and also *the jUiCy kind*! 
+- 🌸 BSc (Hons) Computer Science (Artificial Intelligence) @ APU ('27 Batch) 
+- 🌸 Curious about AI, data, and building things that actually feel *nice* to use  
+- 🌸 One of the Developers of <strong>KiraKira</strong> (SPM Maths e-learning) and <strong>Lumi’s Adventure</strong> (a cozy 2D story-game)  
+- 🌸 Loves chubby cats, pretty sunsets, cute UIs, and well-commented code  
+- 🌸 Constantly learning and trying to be 1% better at math, code, and life every day. (It's Very hard given that my attention span is cooked and my screentime is basically a DAY! {i'm joking})
+- 🌸 I ALSO LOVE TEA *the drinking kind* and also *the jUiCy kind*! 
 
 ---
 
-### 💻 Tech I play with
+### 🤓 Tech I play with
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -46,14 +46,14 @@
 
 ---
 
-### 🧪 Things I like building
+### 🤓 Things I like building
 
 - Cute stuff for my partner to show off that I can ALSO be a tech baddie
 - My assignments (HAHAHAHA i love myself some academic validation)
 
 ---
 
-### 💌 Connect with me
+### 😝 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ummu-kulsum-mahmud" target="_blank">
@@ -62,5 +62,5 @@
 </p>
 
 <p align="center">
-  <em>🌷 Building soft, kinda nerdy, slightly chaotic projects one commit at a time 🌷</em>
+  <em>🌼🌼🌼 Building soft, kinda nerdy, slightly chaotic projects one commit at a time 🌼🌼🌼</em>
 </p>
