@@ -13,7 +13,7 @@
 - 🌸 Curious about AI, data, and building things that actually feel *nice* to use  
 - 🌸 One of the Developers of <strong>KiraKira</strong> (SPM Maths e-learning) and <strong>Lumi’s Adventure</strong> (a cozy 2D story-game)  
 - 🌸 Loves chubby cats, pretty sunsets, cute UIs, and well-commented code  
-- 🌸 Constantly learning and trying to be 1% better at math, code, and life every day. (It's Very hard given that my attention span is cooked and my screentime is basically a DAY! {i'm joking})
+- 🌸 Constantly learning and trying to be 1% better at math, code, and life every day. (It's Very hard given that my attention span is cooked and my screentime is basically a DAY! *i'm joking*)
 - 🌸 I ALSO LOVE TEA *the drinking kind* and also *the jUiCy kind*! 
 
 ---
@@ -56,7 +56,7 @@
 ### 😝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ummu-kulsum-mahmud" target="_blank">
+  <a href="https://www.linkedin.com/in/ummu-kulsum-mahmud-bb56a2212/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ummu kulsum mahmud" height="30" width="40" />
   </a>
 </p>
